@@ -1,0 +1,30 @@
+
+.column{
+
+
+}
+
+.before{
+  background-color: lightblue;
+}
+
+.during{
+background-color: hotpink
+}
+.after{
+background-color: lightyellow;
+}
+
+p{
+  /*padding:1em;*/
+height:400px;
+padding:1em;
+}
+/*WIDTH USE WIDTH WITH THE FLOAT ITEM*/
+img{
+float:left;
+padding:1em;
+}
+h3{
+  text-align: center;
+}
